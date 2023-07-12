@@ -1,0 +1,29 @@
+[
+  {
+    "Pregnancies": 6,
+    "Glucose": 148,
+    "BloodPressure": 72,
+    "SkinThickness": 35,
+    "Insulin": 0,
+    "BMI": 33.6,
+    "Age": 50
+  },
+  {
+    "Pregnancies": 1,
+    "Glucose": 85,
+    "BloodPressure": 66,
+    "SkinThickness": 29,
+    "Insulin": 0,
+    "BMI": 26.6,
+    "Age": 31
+  },
+  {
+    "Pregnancies": 8,
+    "Glucose": 183,
+    "BloodPressure": 64,
+    "SkinThickness": 0,
+    "Insulin": 0,
+    "BMI": 23.3,
+    "Age": 32
+  }
+]

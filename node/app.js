@@ -11,7 +11,6 @@ app.post('/predict', (req, res) => {
     const input = req.body;
 
     const data = JSON.stringify(input)
-    console.log(data);
     // Spawn a child process to execute the predict.py script
     const pythonScript = spawn('python', ['predict.py']);
 

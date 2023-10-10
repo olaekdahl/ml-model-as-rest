@@ -1,6 +1,6 @@
 # Publishing ML data using Python exclusive with Flask
 
-This model is using the famous Iris Flower Data which is installed along with Anaconda. It takes in a list of floats which represent the measurement of petals on an iris plant. It returns the predicted variety of iris.
+This model is using the famous Iris Flower Data which is installed along with scikit-learn. It takes in a list of floats which represent the measurement of petals on an iris plant. It returns the predicted variety of iris.
 
 ## To run
 1. `python app.py`
